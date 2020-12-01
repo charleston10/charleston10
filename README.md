@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**charleston10/charleston10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<image src="https://github.com/charleston10/charleston10/blob/main/android_bg.jpeg?raw=true"/>
+<p align="center">
+🚀 Android | Kotlin Multiplataform Mobile | Javascript | Typescript | NodeJS | GraphQL | SQL | NoSQL | AWS
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/charlestonanjos" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://npmjs.com/~charleston10/" alt="npm">
+    <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=NPM&logoColor=white" />
+  </a>
+</p>
