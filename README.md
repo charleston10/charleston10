@@ -1,4 +1,4 @@
-<image src="https://github.com/charleston10/charleston10/blob/main/android_bg.jpeg?raw=true"/>
+<image src="https://github.com/charleston10/charleston10/blob/main/android.jpeg?raw=true"/>
 <p align="center">
 🚀 Android | Kotlin Multiplataform Mobile | Javascript | Typescript | NodeJS | GraphQL | SQL | NoSQL | AWS
 </p>
