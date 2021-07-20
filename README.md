@@ -1,6 +1,5 @@
-<image src="https://github.com/charleston10/charleston10/blob/main/android.jpeg?raw=true"/>
 <p align="center">
-🚀 Android | Kotlin Multiplataform Mobile | Javascript | Typescript | NodeJS | GraphQL | SQL | NoSQL | AWS
+🚀 Android | Kotlin Multiplataform Mobile | Flutter | ReactNative | Javascript | Typescript | NodeJS | GraphQL | SQL | NoSQL | AWS
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/charlestonanjos" alt="LinkedIn">
